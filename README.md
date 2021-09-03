@@ -1,5 +1,5 @@
 
 
-勉強中: Python(約1年) / PHP(6か月) / Java(1週間...)
+勉強中: Python / PHP / Java
 
 Discord: SkyLake#3753
