@@ -1,6 +1,6 @@
 
 
-勉強中: Python / PHP / JavaScript  
+勉強中: Python / PHP / JavaScript / C#
 一応 Java, html,css もかじったことはありますがあまり勉強してません
 
 # PeekAntiCheat (beta)
