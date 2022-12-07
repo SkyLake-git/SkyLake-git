@@ -1,8 +1,5 @@
-
-
-勉強中: Python / PHP / JavaScript / C#  
-Java, html,css もかじったことはありますがあまり勉強してません
-
-# PeekAntiCheat (beta)
-
+Name: SkyLake(main) / Lyrica0954(minecraft) / SkiOnLake(others)
+Languages: Python / JavaScript / Java / PHP 
 Discord: SkyLake#3753
+
+主にマインクラフト関係の開発をしています(PocketMine-MPのプラグイン開発、リソースパック)
