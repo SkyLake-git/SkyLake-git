@@ -3,3 +3,7 @@ Programming Languages: Python / JavaScript / Java / PHP
 Discord: SkyLake#3753  
 
 主にマインクラフト関係の開発をしています(PocketMine-MPのプラグイン開発、リソースパック)
+
+Echore Serverというマインクラフト統合版のサーバーを運営しているので、興味があればご参加ください  
+現在は開発中で、サーバーは開いていません。  
+https://discord.gg/2Zazyjcn7W
