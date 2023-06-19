@@ -4,3 +4,8 @@ Discord: SkyLake#3753
 Projects: Tres / Mikrayer / Echore
 
 PocketMine-MPのプラグイン開発をメインでやってます
+
+Minecraftで開発してること
+- アンチチート
+- チート
+- PvE (echore)
