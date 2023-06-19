@@ -6,7 +6,7 @@ Projects: Tres / Mikrayer / Echore
 PocketMine-MPのプラグイン開発をメインでやってます
 
 Minecraftで開発してること
-- アンチチート
-- チート
+- アンチチート (private)
+- チート (Singurarity (coming soon))
 - PvE ([Echore](https://github.com/Echore-Server
 ))
