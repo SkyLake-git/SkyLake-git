@@ -8,4 +8,5 @@ PocketMine-MPのプラグイン開発をメインでやってます
 Minecraftで開発してること
 - アンチチート
 - チート
-- PvE (echore)
+- PvE ((Echore)[https://github.com/Echore-Server
+])
